@@ -12,9 +12,9 @@
 
 # Как пользоваться?
 
-0) Скачайте файл YoutubeLabelForWin.jar из этого репозитория (кликните на его название и нажмите кнопку "download").
+0) Скачайте файл YoutubeSubscribersCounterWindows.jar из этого репозитория (кликните на его название и нажмите кнопку "download").
 
-1) Откройте* файл YoutubeLabelForWin.jar одной из следующих программ: 7-Zip, WinRAR или WinZIP.
+1) Откройте* файл YoutubeSubscribersCounterWindows.jar одной из следующих программ: 7-Zip, WinRAR или WinZIP.
 
 2) Найдите файл "config.properties" откройте его любым редактором, например "Блокнот".
 
@@ -33,11 +33,11 @@
 # Другие фишки
 а) Как сделать автозапуск при старте Windows: 
 
-- откройте консоль (клавиши "WIN" + "R" на клавиатуре), напишите "shell:startup" (без кавычек) и скопируйте YoutubeLabelForWin.jar в эту папку.
+- откройте консоль (клавиши "WIN" + "R" на клавиатуре), напишите "shell:startup" (без кавычек) и скопируйте YoutubeSubscribersCounterWindows.jar в эту папку.
 
 б) Как изменить шрифт:
 
-- скачайте шрифт типа "true-type" (его можно узнать по формату файла ".ttf"), переименуйте его в "font.ttf" и положите в корень файла YoutubeLabelForWin.jar с заменой. 
+- скачайте шрифт типа "true-type" (его можно узнать по формату файла ".ttf"), переименуйте его в "font.ttf" и положите в корень файла YoutubeSubscribersCounterWindows.jar с заменой. 
 
 # ВНИМАНИЕ!
 
