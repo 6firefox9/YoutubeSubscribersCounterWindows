@@ -11,13 +11,12 @@ import java.util.concurrent.TimeUnit;
 
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args){
         YoutubeFrame.init();
 
         ScheduledExecutorService scheduler = Executors.newSingleThreadScheduledExecutor();
         scheduler.scheduleAtFixedRate(() -> {
             YoutubeFrame.updateUI();
-            System.out.println("Update UI...");
         }, 0, Options.frequency, TimeUnit.SECONDS);
 
     }
